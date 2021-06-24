@@ -1,4 +1,8 @@
-# add two files to the gitignore
+# Adding two starter.ipynb
+WeatherPy_starter.ipynb
+VacationPy_starter.ipynb
+
+# Adding two files to the gitignore
 API_practice.ipynb
 random_numbers.ipynb
 
