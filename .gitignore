@@ -1,3 +1,7 @@
+# add two files to the gitignore
+API_practice.ipynb
+random_numbers.ipynb
+
 # Adding config.py file.
 api_keys.py
 
