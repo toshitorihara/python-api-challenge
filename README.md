@@ -1,4 +1,4 @@
-# What's the Weather Like: WeatherPy & VacationPy
+# What's the Weather Like? (WeatherPy and VacationPy)
 ![Equator](Images/equatorsign.png)
 
 ## Part I - WeatherPy
